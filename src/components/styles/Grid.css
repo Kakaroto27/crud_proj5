@@ -1,0 +1,18 @@
+.Tabelafull{
+    width: 100%;
+    padding: 20px;
+    border-radius: 5px;
+    max-width: 900px;
+    margin: 20px auto;
+    word-break: break-all;
+}
+
+.Th { 
+    text-align: start;
+    border-bottom: inset;
+    padding-bottom: 5px;
+}
+
+
+    
+

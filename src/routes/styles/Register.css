@@ -1,0 +1,33 @@
+.cadContainer {
+    display: flex;
+    align-items: flex-end;
+    gap: 10px;
+    flex-wrap: wrap;
+    background-color: #FFF;
+    padding: 20px;
+    border-radius: 5px;
+    height: 50vh;
+    width: 100%;
+};
+
+.Inputcadastro {
+    display: flex;
+    flex-direction: column;
+};
+
+.Input {
+    width: 120px;
+    padding: 0 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    height: 40px;
+};
+
+.Button {
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    height: 42px;
+}

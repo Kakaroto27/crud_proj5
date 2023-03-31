@@ -1,0 +1,50 @@
+.Page_login {
+    height: 50%;
+    width: 100%;
+    margin: 25px 10px 5px 5px;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+ }
+
+.title_acess{
+    color: white;
+    font-size: 30px;
+    font: 'sans-serif';
+}
+
+.logando {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin: 50px 30px 10px ;
+    padding: 1rem 100px ;
+    color: white;
+    border: 5px solid rgb(125, 125, 128);
+    border-radius: 5px;
+}
+
+.user, .password{
+    align-items: center;
+    justify-content: center;
+}
+
+.buttons_login{
+    margin: 20px 20px 20px 20px;
+    cursor: pointer;
+}
+
+.buttonlogin{
+    
+    padding: auto;
+    width: 10rem;
+    height: 2.5rem;
+    text-size-adjust: auto;
+}
+
+.buttons_login :hover{
+    background-color:rgb(105, 105, 105);
+
+}
